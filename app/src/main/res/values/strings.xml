@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mutiganda Yvan VPN</string>
+    <string name="brand_owner">Mutiganda Yvan</string>
+    <string name="brand_tagline">Private Tunnel &amp; Encrypted DNS Shield</string>
+    <string name="vpn_notification_channel_name">Mutiganda Yvan VPN Status</string>
+    <string name="vpn_notification_channel_desc">Shows active Mutiganda Yvan VPN tunnel status and controls</string>
+    <string name="vpn_status_connected">Protected by Mutiganda Yvan VPN</string>
+    <string name="vpn_status_connecting">Establishing secure tunnel…</string>
+    <string name="vpn_status_disconnected">Tunnel Disconnected</string>
+    <string name="vpn_action_disconnect">Disconnect</string>
+    <string name="nav_shield">Shield</string>
+    <string name="nav_profiles">Profiles</string>
+    <string name="nav_inspector">Inspector</string>
+    <string name="nav_settings">Settings</string>
+</resources>

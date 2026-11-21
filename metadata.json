@@ -1,0 +1,6 @@
+{
+  "name": "Mutiganda Yvan VPN",
+  "description": "Mutiganda Yvan VPN — Private Android VPN tunnel client powered by Android VpnService with encrypted DNS protection, custom endpoint profiles, split tunneling, and live traffic telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
